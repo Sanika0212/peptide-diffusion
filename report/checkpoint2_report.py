@@ -127,7 +127,7 @@ def build_pdf():
         "CSE 676 Deep Learning&nbsp;&nbsp;|&nbsp;&nbsp;Spring 2026", S["subtitle"]))
     story.append(Paragraph(
         "Vaishak Girish Kumar &nbsp;·&nbsp; Akshay Mohan Revankar "
-        "&nbsp;·&nbsp; Sanika Vilas Nanjan", S["team"]))
+        "&nbsp;·&nbsp; Sanika Vilas Najan", S["team"]))
     story.append(Paragraph(
         "GitHub: https://github.com/AkshayRevankarDev/peptide-diffusion", S["github"]))
     story.append(HRFlowable(width="100%", thickness=1.5, color=NAVY, spaceAfter=18))
@@ -407,7 +407,7 @@ def build_pdf():
          "process, entropy-adaptive mass gate (NOVEL #1), spectral noise augmentation (NOVEL #4), "
          "3-seed reproducibility runs, gate ablation. notebooks/04_diffusion.ipynb: end-to-end "
          "Colab training and evaluation notebook. results/diffusion_predictions.csv."),
-        ("Sanika Vilas Nanjan", "src/esm_scoring.py: ESM-2 pseudo-perplexity scoring. "
+        ("Sanika Vilas Najan", "src/esm_scoring.py: ESM-2 pseudo-perplexity scoring. "
          "src/wastewater_pipeline.py: target-decoy FDR pipeline. "
          "results/esm2_scores.csv, results/wastewater_predictions_5pct_fdr.csv, "
          "figures/figure1_esm2_violin.png, figures/figure2_esm2_heatmap.png."),
@@ -433,7 +433,7 @@ def build_pdf():
         leftMargin=1*inch, rightMargin=1*inch,
         topMargin=1*inch, bottomMargin=1*inch,
         title="CSE 676 Checkpoint 2 Report — Peptide Diffusion",
-        author="Vaishak Girish Kumar · Akshay Mohan Revankar · Sanika Vilas Nanjan",
+        author="Vaishak Girish Kumar · Akshay Mohan Revankar · Sanika Vilas Najan",
         subject="De Novo Peptide Sequencing by Multinomial Diffusion Model",
     )
     doc.build(story, canvasmaker=NumberedCanvas)

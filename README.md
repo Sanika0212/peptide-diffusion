@@ -188,5 +188,5 @@ peptide-diffusion/
 
 ## Team
 
-Vaishak Girish Kumar · Akshay Mohan Revankar · Sanika Vilas Nanjan  
+Vaishak Girish Kumar · Akshay Mohan Revankar · Sanika Vilas Najan  
 University at Buffalo — CSE 676 Deep Learning, Spring 2026

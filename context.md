@@ -1,6 +1,6 @@
 # Peptide-Diffusion: Project Context
 
-**Team:** Vaishak Girish Kumar, Akshay Mohan Revankar, Sanika Vilas Nanjan (UB CSE 676 Deep Learning final project)
+**Team:** Vaishak Girish Kumar, Akshay Mohan Revankar, Sanika Vilas Najan (UB CSE 676 Deep Learning final project)
 
 ## Overview
 
